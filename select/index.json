@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "GRIT",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T18:20:40.296036Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "True Grit",
+      "artist": "Glen Campbell",
+      "has_synced": false,
+      "path": "select/01_True_Grit_Glen_Campbell.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "True Grit",
+      "artist": "Joywave",
+      "has_synced": false,
+      "path": "select/02_True_Grit_Joywave.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "True Grit (record version)",
+      "artist": "Glen Campbell",
+      "has_synced": true,
+      "path": "select/03_True_Grit_(record_version)_Glen_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "True Grit",
+      "artist": "Glen Campbell",
+      "has_synced": true,
+      "path": "select/04_True_Grit_Glen_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Comin’ Back (The Light’s Southern Grit remix)",
+      "artist": "The Crystal Method",
+      "has_synced": false,
+      "path": "select/05_Comin’_Back_(The_Light’s_Southern_Grit_remix)_The_Crystal_Method.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bite the Grit",
+      "artist": "Karmakanic",
+      "has_synced": true,
+      "path": "select/06_Bite_the_Grit_Karmakanic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "60 Grit",
+      "artist": "Comadre",
+      "has_synced": true,
+      "path": "select/07_60_Grit_Comadre.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Greasy Grit Gravy",
+      "artist": "Bobby Bare",
+      "has_synced": false,
+      "path": "select/08_Greasy_Grit_Gravy_Bobby_Bare.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The New Grit",
+      "artist": "Black Thought feat. Salaam Remi",
+      "has_synced": false,
+      "path": "select/09_The_New_Grit_Black_Thought_feat._Salaam_Remi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The New Grit",
+      "artist": "Black Thought",
+      "has_synced": false,
+      "path": "select/10_The_New_Grit_Black_Thought.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Grit Don't Quit",
+      "artist": "E-40 feat. Nef The Pharaoh",
+      "has_synced": false,
+      "path": "select/11_The_Grit_Don't_Quit_E-40_feat._Nef_The_Pharaoh.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Grit Don’t Quit",
+      "artist": "E‐40 feat. Nef the Pharaoh",
+      "has_synced": false,
+      "path": "select/12_The_Grit_Don’t_Quit_E‐40_feat._Nef_the_Pharaoh.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GRIT",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_GRIT_BE_FIRST.txt"
+    }
+  ]
+}
